@@ -1,0 +1,20 @@
+.odd {
+    background-color: rgb(243,140,140);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: #0b08cc;
+    font-size: 36px;
+
+}
+.odd.cool {
+    font-size: 24px;
+}
+/*  The combination of classes odd and cool can be be replaced by one single class and then used on the fourth element to give the 24px font size*/
+
+#fourth{
+    background-color: #78d67c;
+    font-size: 24px;
+    font-weight: bold;
+}

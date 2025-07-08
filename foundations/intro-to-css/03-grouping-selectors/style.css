@@ -1,0 +1,14 @@
+.noir, 
+.jaune {
+    font-size: 28px;
+    font-family: Helvetica, "New Times Roman", sans-serif;
+}
+
+.noir {
+    background-color: black;
+    color: white;
+}
+
+.jaune{
+    background-color: yellow;
+}
